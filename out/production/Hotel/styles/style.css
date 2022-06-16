@@ -1,0 +1,68 @@
+.image{
+    -fx-background-image: url("../img/hotel1.jpg");
+    -fx-background-size: cover;
+
+}
+.local{
+    -fx-background-image: url("../img/localmeal.jpg");
+    -fx-background-size: cover;
+}
+.french{
+    -fx-background-image: url("../img/frenchmeal.jpg");
+    -fx-background-size: cover;
+}
+.chinese{
+    -fx-background-image: url("../img/chinesemeal.jpg");
+    -fx-background-size: cover;
+}
+
+
+.button-one{
+    -fx-background-color:#3498db;
+    -fx-border-radiusborder-radius: 12px;
+}
+.button-two{
+    -fx-background-color:#3498db;
+}
+
+
+.btnLogout {
+    -fx-background-color:#3498db;
+
+}
+.button4 {
+    -fx-border-radius-color:#0652DD;
+    -fx-background-radius: 50px 50px 50px 50px;
+}
+.DashBoard {
+    -fx-background-radius: 50px 50px;
+}
+.button2 {
+    -fx-background-color: white;
+    -fx-color: black;
+    -fx-border: 2px solid #008CBA;
+}
+.user {
+    -fx-color: #f7f1e3;
+}
+.butt {
+    -fx-background-color: white;
+    -fx-color: black;
+    -fx-border-color: 2px solid #4CAF50; /* Green */
+}
+.meal{
+    -fx-background-radius: 50px;
+}
+.jfx-decorator {
+    -fx-decorator-color: #000000;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+
+}
+.jfx-decorator .jfx-decorator-buttons-container{
+    -fx-background-color:-fx-decorator-color;
+}
+.jfx-decorator .resize-border{
+    -fx-border-color:-fx-decorator-color;
+    -fx-border-width: 5 5 5 5;
+}
